@@ -5,6 +5,7 @@
             "categories": ["discord"],
             "description": "handmade test catalog entry",
             "healthy": true,
+            "healthy_error": null,
             "home": "example.org",
             "location": "/home/runner/work/catalog/catalog/stable/test",
             "latest_version": "1.0.0",
