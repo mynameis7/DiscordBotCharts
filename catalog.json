@@ -1,0 +1,24 @@
+{
+    "stable": {
+        "test-entry": {
+            "app_readme": "<h1>TEST README ENTRY</h1>",
+            "categories": ["discord"],
+            "description": "handmade test catalog entry",
+            "healthy": true,
+            "home": "example.org",
+            "location": "/home/runner/work/catalog/catalog/stable/test",
+            "latest_version": "1.0.0",
+            "latest_app_version": "1.0.1",
+            "last_update": "2024-04-10 00:00:00",
+            "name": "test-entry",
+            "title": "Test Entry",
+            "maintainers": [
+                {"name": "test name", "email": "someEmail@example.org", "url": "example.org"}
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": "https://github.com/mynameis7",
+            "icon_url": ""
+        }
+    }
+}
