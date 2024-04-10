@@ -20,7 +20,9 @@
             ],
             "tags": [],
             "screenshots": [],
-            "sources": "https://github.com/mynameis7",
+            "sources": [
+                "https://github.com/mynameis7"
+            ],
             "icon_url": ""
         }
     }
