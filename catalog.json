@@ -12,6 +12,7 @@
             "latest_human_version": "1.0.0_1.0.1",
             "last_update": "2024-04-10 00:00:00",
             "name": "test-entry",
+            "recommended": false,
             "title": "Test Entry",
             "maintainers": [
                 {"name": "test name", "email": "someEmail@example.org", "url": "example.org"}
